@@ -1,0 +1,5 @@
+BubsOS V1
+  Added Basic Logic
+
+BubsOS V2
+  Coming soon
