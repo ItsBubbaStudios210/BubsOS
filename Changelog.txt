@@ -1,5 +1,12 @@
-BubsOS V1
-  Added Basic Logic
+|BubsOS V1
+|  |Added Basic Logic
+|____________________|
 
-BubsOS V2
-  Coming soon
+|BubsOS V2
+|This update added
+|    Changing the username
+|    A Notepad
+|    A notifalcation system
+|    Colors
+|    A command to see all files and folders in your BubsOS installation
+|______________________________________________________________________|
