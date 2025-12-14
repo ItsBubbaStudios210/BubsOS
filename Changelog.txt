@@ -4,9 +4,9 @@
 
 |BubsOS V2
 |This update added
-|    Changing the username
-|    A Notepad
-|    A notifalcation system
-|    Colors
-|    A command to see all files and folders in your BubsOS installation
+|   |Changing the username
+|   |A Notepad
+|   |A notifalcation system
+|   |Colors
+|   |A command to see all files and folders in your BubsOS installation
 |______________________________________________________________________|
